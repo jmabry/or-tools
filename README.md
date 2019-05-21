@@ -2,7 +2,8 @@
 
 [![Build
 Status](https://travis-ci.org/google/or-tools.svg?branch=master)](https://travis-ci.org/google/or-tools)
-[![Build status](https://ci.appveyor.com/api/projects/status/9hyykkcm8sh3ua6x?svg=true)](https://ci.appveyor.com/project/lperron/or-tools-98u1n)  
+[![Build status](https://ci.appveyor.com/api/projects/status/9hyykkcm8sh3ua6x?svg=true)](https://ci.appveyor.com/project/lperron/or-tools-98u1n) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjmabry%2For-tools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjmabry%2For-tools?ref=badge_shield)
+ 
 [![PyPI version](https://badge.fury.io/py/ortools.svg)](https://pypi.org/project/ortools/)
 [![PyPI download](https://img.shields.io/pypi/dm/ortools.svg)](https://pypi.org/project/ortools/#files)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/google/or-tools/master)  
@@ -135,3 +136,6 @@ proposals and reach consensus before sending your first PR.
 
 The OR-Tools software suite is licensed under the terms of the Apache License 2.0.
 <br>See [LICENSE-2.0](LICENSE-2.0.txt) for more information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjmabry%2For-tools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjmabry%2For-tools?ref=badge_large)
